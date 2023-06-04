@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UKLView</string>
+    <string name="content_text">TUTORIAL MASAK MIE INSTAN PASTINYA ENAK. FOLLOW IG @yanndisini</string>
+    <string name="_brocri">MIE INSTAN</string>
+    <string name="febri">Afriansyah</string>
+    <string name="waktu">5 Menit</string>
+    <string name="bahan">Bahan - Bahan</string>
+    <string name="bahan2">
+    1 bungkus mie instan
+
+    1 air gelas besar
+
+    panci
+
+    saringan mie
+
+    garpu</string>
+    <string name="langkah"> Cara Membuat</string>
+    <string name="l1"> Langkah 1</string>
+    <string name="l2"> Langkah 2</string>
+    <string name="l3"> Langkah 3</string>
+
+    <string name="langkah1">Didihkan air dalam panci. Pilih panci yang berkapasitas sekitar 2 sampai 3 liter. Setelah itu, masukkan 600 ml air ke dalamnya, lalu didihkan air di atas kompor dengan api sedang. Tuangkan bumbu instan. Perlahan, buka kemasan mi dan keluarkan bumbunya. Kemudian, buka kemasan bumbu dan tuangkan isinya ke dalam air mendidih; aduk dengan sumpit atau sendok agar bumbu dan air tercampur dengan baik.</string>
+    <string name="langkah2">Masukkan mi ke dalam air. Perlahan, masukkan mi ke dalam air mendidih. Kemudian, gunakan bantuan sumpit untuk mendorong mi ke dalam air beberapa kali hingga seluruh permukaannya terendam. Langkah ini perlu dilakukan agar tingkat kematangan mi lebih merata. Rebus mi selama tiga atau empat menit. Setelah teksturnya melunak, perlahan aduk mi dengan sendok besar atau sumpit. Ketika setiap helai mi mulai saling terpisah, mulailah memperhatikan tanda-tanda berikut ini untuk mengenali mi yang sudah matang sempurna</string>
+    <string name="langkah3">Sajikan mi instan nan lezat. Setelah mi matang, matikan kompor. Perlahan, tuangkan mi beserta kuahnya ke dalam sebuah mangkuk berukuran besar. Jika mi masih panas dan mengeluarkan uap, diamkan terlebih dahulu selama satu atau dua menit sebelum disantap.</string>
+    <string name="space">
+
+
+
+
+
+
+
+    </string>
+    <string name="space1">
+
+
+
+
+
+
+
+
+
+
+
+    </string>
+</resources>
